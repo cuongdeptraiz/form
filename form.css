@@ -1,0 +1,22 @@
+.sectione-one .inner-head {
+  border: 1px solid #ebd7d7;
+  background-color: aquamarine;
+  border-radius: 10px 10px 0 0;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.sectione-one .inner-body {
+  border: 1px solid #ebd7d7;
+  padding: 20px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.sectione-one .inner-body .button {
+  background-color: aquamarine;
+  border: 0;
+  border-radius: 45px;
+  padding: 10px 30px;
+  color: white;
+  font-weight: 700;
+}
